@@ -1,0 +1,25 @@
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+#map {
+    margin-top: 20px;
+}
+
+#msg {
+    text-align: center;
+    text-shadow: 2px;
+}
+
+.form-group {
+    margin-top: 20px;
+}
